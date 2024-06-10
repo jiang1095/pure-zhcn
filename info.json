@@ -1,0 +1,15 @@
+{
+	"name": "pure-zhcn",
+	"version": "0.0.1",
+	"title": "纯净翻译",
+	"author": "jiang1095",
+	"homepage": "https://mods.factorio.com/user/jiang1095",
+	"description": "自用的纯净中文翻译。",
+	"factorio_version":"1.1",
+	"dependencies":  [
+		"? aotixzhcn",
+		"? chinese",
+		"? zhcnremaker",
+		"? Better-Power-Armor-Grid"
+		]
+}
